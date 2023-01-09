@@ -1,0 +1,15 @@
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/bin/Debug/net7.0/RegexPhone
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/bin/Debug/net7.0/RegexPhone.deps.json
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/bin/Debug/net7.0/RegexPhone.runtimeconfig.json
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/bin/Debug/net7.0/RegexPhone.dll
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/bin/Debug/net7.0/RegexPhone.pdb
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.csproj.AssemblyReference.cache
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.AssemblyInfoInputs.cache
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.AssemblyInfo.cs
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.csproj.CoreCompileInputs.cache
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.dll
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/refint/RegexPhone.dll
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.pdb
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/RegexPhone.genruntimeconfig.cache
+/Users/anicka/Desktop/csharp/RegexPhone/RegexPhone/obj/Debug/net7.0/ref/RegexPhone.dll

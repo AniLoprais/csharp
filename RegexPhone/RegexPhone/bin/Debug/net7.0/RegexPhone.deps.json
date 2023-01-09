@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RegexPhone/1.0.0": {
+        "runtime": {
+          "RegexPhone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegexPhone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
