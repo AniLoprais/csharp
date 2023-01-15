@@ -1,0 +1,15 @@
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.csproj.AssemblyReference.cache
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.AssemblyInfoInputs.cache
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.AssemblyInfo.cs
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.csproj.CoreCompileInputs.cache
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/bin/Debug/net7.0/StringCount
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/bin/Debug/net7.0/StringCount.deps.json
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/bin/Debug/net7.0/StringCount.runtimeconfig.json
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/bin/Debug/net7.0/StringCount.dll
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/bin/Debug/net7.0/StringCount.pdb
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.dll
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/refint/StringCount.dll
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.pdb
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/StringCount.genruntimeconfig.cache
+/Users/anicka/Desktop/csharp/csharp/StringCount/StringCount/obj/Debug/net7.0/ref/StringCount.dll

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CAD4CB27-7140-4285-AACE-95E4C12DE7D2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringCount/Program.cs">
+    <Files>
+      <File FileName="../../SortString/SortString/Program.cs" Line="1" Column="1" />
+      <File FileName="../../StringCount/StringCount/Program.cs" Line="7" Column="25" />
+      <File FileName="StringCount/Program.cs" Line="8" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringCount" expanded="True">
+            <Node name="StringCount" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StringCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
