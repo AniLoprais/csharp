@@ -1,0 +1,15 @@
+/Users/anicka/Desktop/csharp/Hangman/Hangman/bin/Debug/net6.0/Hangman
+/Users/anicka/Desktop/csharp/Hangman/Hangman/bin/Debug/net6.0/Hangman.deps.json
+/Users/anicka/Desktop/csharp/Hangman/Hangman/bin/Debug/net6.0/Hangman.runtimeconfig.json
+/Users/anicka/Desktop/csharp/Hangman/Hangman/bin/Debug/net6.0/Hangman.dll
+/Users/anicka/Desktop/csharp/Hangman/Hangman/bin/Debug/net6.0/Hangman.pdb
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.csproj.AssemblyReference.cache
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfoInputs.cache
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfo.cs
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.dll
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/refint/Hangman.dll
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.pdb
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/Hangman.genruntimeconfig.cache
+/Users/anicka/Desktop/csharp/Hangman/Hangman/obj/Debug/net6.0/ref/Hangman.dll
