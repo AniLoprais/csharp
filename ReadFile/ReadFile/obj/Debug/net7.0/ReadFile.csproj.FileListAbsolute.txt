@@ -1,0 +1,15 @@
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/bin/Debug/net7.0/ReadFile
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/bin/Debug/net7.0/ReadFile.deps.json
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/bin/Debug/net7.0/ReadFile.runtimeconfig.json
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/bin/Debug/net7.0/ReadFile.dll
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/bin/Debug/net7.0/ReadFile.pdb
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.csproj.AssemblyReference.cache
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.AssemblyInfoInputs.cache
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.AssemblyInfo.cs
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.csproj.CoreCompileInputs.cache
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.dll
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/refint/ReadFile.dll
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.pdb
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ReadFile.genruntimeconfig.cache
+/Users/anicka/Desktop/csharp/ReadFile/ReadFile/obj/Debug/net7.0/ref/ReadFile.dll
