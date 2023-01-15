@@ -1,0 +1,15 @@
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.deps.json
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.runtimeconfig.json
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.dll
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.pdb
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.csproj.AssemblyReference.cache
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.AssemblyInfo.cs
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.dll
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/refint/PrimeNumber.dll
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.pdb
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.genruntimeconfig.cache
+/Users/anicka/Desktop/csharp/csharp/PrimeNumber/PrimeNumber/obj/Debug/net7.0/ref/PrimeNumber.dll
