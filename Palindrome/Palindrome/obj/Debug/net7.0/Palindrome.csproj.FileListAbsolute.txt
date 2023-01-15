@@ -1,0 +1,15 @@
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.csproj.AssemblyReference.cache
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfoInputs.cache
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfo.cs
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.deps.json
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.runtimeconfig.json
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.dll
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/bin/Debug/net7.0/Palindrome.pdb
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.dll
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/refint/Palindrome.dll
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.pdb
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/Palindrome.genruntimeconfig.cache
+/Users/anicka/Desktop/csharp/csharp/Palindrome/Palindrome/obj/Debug/net7.0/ref/Palindrome.dll
